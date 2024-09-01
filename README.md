@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Autonomous driving with ROS for Teknofest.**
 
+- ✅ I'm currently working at **Ipragaz IT Department.**
+
 - 🌱 I’m currently learning **Data Science, AI and Machine Learning.**
 
 - 📫 How to reach me **tanaytok@hotmail.com or tanaytok@ieee.org**
