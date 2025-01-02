@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science, AI and Machine Learning.**
 
-- 📫 How to reach me **tanaytok@hotmail.com or tanaytok@ieee.org**
+- 📫 How to reach me **tanaytok@hotmail.com or taanaytok123@gmail.com**
 
 - ⚡ Fun fact **I was a mechanical engineering student in my first year of university.**
 
