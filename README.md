@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tan Aytok</h1>
 <h3 align="center">I am a Software Engineer candidate who constantly tries to improve myself.</h3>
 
-- 🔭 I’m currently working on **Autonomous driving with ROS for Teknofest.**
+- 🔭 I’m currently working on **Natural Language Processing and Data Analysis for our TÜBİTAK Project.**
 
 - ✅ I'm currently working at **Ipragaz IT Department.**
 
-- 🌱 I’m currently learning **Data Science, AI and Machine Learning.**
+- 🌱 I’m currently learning **Data Science, NLP and Machine Learning.**
 
 - 📫 How to reach me **tanaytok@hotmail.com or taanaytok123@gmail.com**
 
