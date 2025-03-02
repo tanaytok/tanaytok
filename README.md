@@ -5,7 +5,7 @@
 
 - ✅ I'm currently working at **Ipragaz IT Department.**
 
-- 🌱 I’m currently learning **Data Science, NLP and Android Programming .**
+- 🌱 I’m currently learning **Data Science, NLP, Back-end Programming and Android Programming .**
 
 - 📫 How to reach me **tanaytok@hotmail.com or taanaytok123@gmail.com**
 
