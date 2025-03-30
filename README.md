@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaytok&label=Profile%20views&color=0e75b6&style=flat" alt="tanaytok" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tanaytokk" target="blank"><img src="https://img.shields.io/twitter/follow/tanaytokk?logo=twitter&style=for-the-badge" alt="tanaytokk" /></a> </p>
-
 - 🔭 I’m currently working on **Natural Language Processing and Data Analysis for our TÜBİTAK Project.**
 
 - 🌱 I’m currently learning **Data Science, NLP, Back-end Programming and Android Programming.**
