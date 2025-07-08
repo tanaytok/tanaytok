@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tan Aytok</h1>
-<h3 align="center">I am a Software Engineer candidate who constantly tries to improve myself.</h3>
+<h3 align="center">I am a Software Engineer who constantly tries to improve myself.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaytok&label=Profile%20views&color=0e75b6&style=flat" alt="tanaytok" /> </p>
 
-- 🔭 I’m currently working on **Natural Language Processing and Data Analysis for our TÜBİTAK Project.**
+- 🔭 I’m currently working on **AI Chatbot project in Clineca.**
 
-- 🌱 I’m currently learning **Data Science, NLP, Back-end Programming and Android Programming.**
+- 🌱 I’m currently learning **Artificial Intelligence Data Science, NLP, Backend Programming and Android Programming.**
 
 - 👨‍💻 All of my projects are available at [tanaytok.com](tanaytok.com)
 
-- 📝 I regularly write articles on Prediction of Carbon Dioxide Emissions in Fossil Fuel Vehicles with Machine Learning
+- 📝 I writed am article about Prediction of Carbon Dioxide Emissions in Fossil Fuel Vehicles with Machine Learning
 
 - 📫 How to reach me **tanaytok@hotmail.com or taanaytok123@gmail.com**
 
