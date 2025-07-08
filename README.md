@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [tanaytok.com](tanaytok.com)
 
-- 📝 I writed am article about Prediction of Carbon Dioxide Emissions in Fossil Fuel Vehicles with Machine Learning
+- 📝 I writed an article about Prediction of Carbon Dioxide Emissions in Fossil Fuel Vehicles with Machine Learning
 
 - 📫 How to reach me **tanaytok@hotmail.com or taanaytok123@gmail.com**
 
