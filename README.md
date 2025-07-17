@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI Chatbot project in Clineca.**
 
-- 🌱 I’m currently learning **Artificial Intelligence Data Science, NLP, Backend Programming and Android Programming.**
+- 🌱 I’m currently learning **Artificial Intelligence, Data Science, NLP, Backend Programming and Android Programming.**
 
 - 👨‍💻 All of my projects are available at [tanaytok.com](tanaytok.com)
 
