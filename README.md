@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaytok&label=Profile%20views&color=0e75b6&style=flat" alt="tanaytok" /> </p>
 
-- 🔭 I’m currently working on **AI Chatbot project in Clineca.**
+- 🔭 I’m currently working on **AI Agent project in Clineca.**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Data Science, NLP, Backend Programming and Android Programming.**
 
