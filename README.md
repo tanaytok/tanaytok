@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on AI Agent project in Clineca.<br>- 🌱 I’m currently learning Artificial Intelligence, Data Science, NLP, Backend Programming and Android Programming. <br>- 👨‍💻 All of my projects are available at tanaytok.com<br>- 📝 I writed an article about Prediction of Carbon Dioxide Emissions in Fossil Fuel Vehicles with Machine Learning<br> -📫 How to reach me tanaytok@hotmail.com or taanaytok123@gmail.com<br>-⚡ Fun fact I was a mechanical engineering student in my first year of university.</p>
+<p align="left">- 🔭 I’m currently working on AI Agent project in Clineca.<br>- 🌱 I’m currently learning Artificial Intelligence, Data Science, NLP, Full-stack Programming and Android Programming. <br>- 👨‍💻 All of my projects are available at tanaytok.com<br>- 📝 I writed an article about Prediction of Carbon Dioxide Emissions in Fossil Fuel Vehicles with Machine Learning<br> -📫 How to reach me tanaytok@hotmail.com or taanaytok123@gmail.com<br>-⚡ Fun fact I was a mechanical engineering student in my first year of university.</p>
 
 ###
 
